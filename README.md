@@ -8,3 +8,5 @@ _this is also italic_
 _**I tried to mix bold and italic**_
 ___Again bold and italic___
 ~~strike through is done~~
+#heading
+##heading 2
