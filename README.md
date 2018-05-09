@@ -18,3 +18,12 @@ Link created
 https://google.com <--- **an automatic link**
 
 File saving in a branch.
+
+#heading 1
+
+##heading 2
+ #heading 
+ 
+ Heading is not working.
+ 
+ Final
