@@ -10,3 +10,11 @@ ___Again bold and italic___
 ~~strike through is done~~
 #heading
 ##heading 2
+
+A try to make a new line.
+**Heading is not working**
+[Linking 😊](https://google.com)
+Link created 
+https://google.com <--- **an automatic link**
+
+File saving in a branch.
