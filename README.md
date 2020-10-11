@@ -1,6 +1,6 @@
 # SWM
 1st repositry
-Hello this is the line I have added to check commit working.
+Hello this is the line I have added to check commit is working or not.
 #this is a heading.
 **this must be bold**
 *this is italic*
@@ -25,5 +25,5 @@ File saving in a branch.
  #### heading 4
 ##### heading 5
 ###### heading 6
- Heading is working
- Final
+ Heading is working.
+ Finally
